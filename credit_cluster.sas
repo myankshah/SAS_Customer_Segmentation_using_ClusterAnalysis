@@ -1,5 +1,5 @@
 /* Clustering and Decision Trees Graded Case Study*/
-libname cluster "D:\Users\Jig11117\Graded Assignments\Topic 11-Case Study Clustering & Decision Trees";
+libname cluster "D:\Users\ms\Graded Assignments\Topic 11-Case Study Clustering & Decision Trees";
 run;
 
 /*Importing data*/
